@@ -15,4 +15,9 @@ public class PrecioPedido implements ValueObject<Double> {
     public Double value() {
         return value;
     }
+
+    public PrecioPedido ajustarPrecio(PrecioPedido precioPedido) {
+
+        return precioPedido;
+    }
 }
