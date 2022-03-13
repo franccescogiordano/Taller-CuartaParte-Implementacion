@@ -56,7 +56,6 @@ class GenerarVentaUseCaseTest {
         var event = (VentaGenerada)events.get(0);
         Assertions.assertEquals("pedido.ventagenerada", event.type);
         Assertions.assertEquals("EFECTIVO", event.getMetodoDePago().value());
-        Assertions.assertEquals("EFECTIVO", event.ge().value());
         Assertions.assertEquals("xxxxx", event.aggregateRootId());
     }
 

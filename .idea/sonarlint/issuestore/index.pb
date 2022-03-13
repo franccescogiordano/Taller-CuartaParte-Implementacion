@@ -1,8 +1,4 @@
 
-d
-4src/main/java/co/com/sofka/domain/generic/Fecha.java,a\f\af1c0b3c7823be07e056ebdbae30f683e3259de8
-e
-5src/main/java/co/com/sofka/domain/generic/Precio.java,f\9\f957ac89e919da0f3c13f07d7ea621e78b43916b
 i
 9src/main/java/co/com/sofka/domain/generic/ProductoId.java,0\a\0acf478ae5d06bd9ced7c9062e8b248a22563e41
 e
@@ -19,8 +15,6 @@ l
 <src/main/java/co/com/sofka/compra/value/Datos_proveedor.java,9\5\95e2b2711f9093f784466517245d766d79c087f5
 k
 ;src/main/java/co/com/sofka/domain/pedido/value/VentaId.java,6\5\6584b349f6115e99b5d6e9a63795d7e2e8c618a1
-c
-3src/main/java/co/com/sofka/domain/pedido/Venta.java,2\9\29e33db323bc60fa45d1a58f1ff1f26849fdd9be
 h
 8src/main/java/co/com/sofka/domain/generic/ClienteId.java,2\6\263fbb5769e0baf9213ded5b3975448a4e39e882
 q
@@ -33,17 +27,5 @@ r
 Bsrc/main/java/co/com/sofka/domain/pedido/value/ProductoPedido.java,7\3\735f79f44144133d3391d31c0b5b1423982352d7
 p
 @src/main/java/co/com/sofka/domain/pedido/value/PrecioPedido.java,5\1\51ab05af4028b3d5587773b1cb96495c498d0aea
-o
-?src/test/java/co/com/sofka/usecases/CrearPedidoUseCaseTest.java,8\6\865c2235affed626428bdb760d5731ee33dc983f
-d
-4src/main/java/co/com/sofka/domain/pedido/Pedido.java,e\3\e31cf3459a878f78ede658498b9511c49084bb50
-i
-9src/main/java/co/com/sofka/compra/event/CompraCreada.java,6\b\6bd480cc28d9afb025a1930e184a66ce12711f5a
 p
 @src/main/java/co/com/sofka/domain/pedido/event/PedidoCreado.java,3\7\378d2eca2438603d85719ebcfd1352b3a47b20c4
-h
-8src/main/java/co/com/sofka/compra/CompraEventChange.java,1\b\1b4ad9dc5e5af6b2e554eb0d2a611ac91048e6bb
-o
-?src/main/java/co/com/sofka/domain/pedido/PedidoEventChange.java,d\6\d6c6b88dc862bdf4700c08586ee67221b060467e
-]
--src/main/java/co/com/sofka/compra/Compra.java,f\c\fc32f2583da0e4a166edc3fb70f0de6bde6d7e34
